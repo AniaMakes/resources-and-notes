@@ -12,8 +12,10 @@ An anecdote she presented made it clear that although the mentor-mentee relation
 
 Furthermore, mentoring provides opportunity for the mentor to practice patience, expressing themselves and their ideas clearly, and to listen. Mentees don't necessarily need to hear about their mentor's experiences, they need the space and the opportunity to express themselves. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We need to feel safe to experiment and learn. <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a> <a href="https://twitter.com/ThisIsJoFrank?ref_src=twsrc%5Etfw">@ThisIsJoFrank</a> <a href="https://t.co/BIbOTiWPNN">pic.twitter.com/BIbOTiWPNN</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060835598750097408?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We need to feel safe to experiment and learn. <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a> <a href="https://twitter.com/ThisIsJoFrank?ref_src=twsrc%5Etfw">@ThisIsJoFrank</a> 
+
+![Perfection is unnecessary, impossible to achieve & harmful to promote](https://pbs.twimg.com/media/DrjYLpnWsAAfQOz.jpg)
+<a href="https://t.co/BIbOTiWPNN">pic.twitter.com/BIbOTiWPNN</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060835598750097408?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
 
 As a mentor you will become your mentees personal cheerleader - celebrate their achievements, acknowledge their successes, and provide validation when needed. 
 
@@ -33,12 +35,17 @@ Key points to remember when arranging mentoring:
     Offer sponsorship / introductions
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Word of the day from <a href="https://twitter.com/ThisIsJoFrank?ref_src=twsrc%5Etfw">@thisisjofrank</a>: &quot;firgun&quot; meaning the feeling of absolute joy and delight from helping another person in Hebrew. What a beautiful word! <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a></p>&mdash; Natalie Burns (@natlburns) <a href="https://twitter.com/natlburns/status/1060839412177747968?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 BONUS: a few tweets on the subject from Extreme Tuesdays meetup:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Questions to consider about mentoring <a href="https://twitter.com/extremetuesday?ref_src=twsrc%5Etfw">@extremetuesday</a> <a href="https://t.co/M4nqs3Lz5S">pic.twitter.com/M4nqs3Lz5S</a></p>&mdash; Jeffrey Fredrick (@Jtf) <a href="https://twitter.com/Jtf/status/981239399320031233?ref_src=twsrc%5Etfw">April 3, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Questions to consider about mentoring <a href="https://twitter.com/extremetuesday?ref_src=twsrc%5Etfw">@extremetuesday</a> 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Awesome thoughts generated at <a href="https://twitter.com/extremetuesday?ref_src=twsrc%5Etfw">@extremetuesday</a> <a href="https://t.co/7cipFRRnKp">pic.twitter.com/7cipFRRnKp</a></p>&mdash; Hemal Varambhia (@hnvarambhia) <a href="https://twitter.com/hnvarambhia/status/981296315668860929?ref_src=twsrc%5Etfw">April 3, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![XTC: Mentoring](https://pbs.twimg.com/media/DZ4QBp7XcAASdag.jpg)
+
+<a href="https://t.co/M4nqs3Lz5S">pic.twitter.com/M4nqs3Lz5S</a></p>&mdash; Jeffrey Fredrick (@Jtf) <a href="https://twitter.com/Jtf/status/981239399320031233?ref_src=twsrc%5Etfw">April 3, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Awesome thoughts generated at <a href="https://twitter.com/extremetuesday?ref_src=twsrc%5Etfw">@extremetuesday</a>
+
+![Mentoring mind map](https://pbs.twimg.com/media/DZ5DyqRXUAALuQ-.jpg)
+
+ <a href="https://t.co/7cipFRRnKp">pic.twitter.com/7cipFRRnKp</a></p>&mdash; Hemal Varambhia (@hnvarambhia) <a href="https://twitter.com/hnvarambhia/status/981296315668860929?ref_src=twsrc%5Etfw">April 3, 2018</a></blockquote>
