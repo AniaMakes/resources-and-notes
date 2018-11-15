@@ -123,6 +123,17 @@ Gosh, it's hard to put everything into prose, so here's the list from my notes; 
 - wheelchair friendly - wide aisles, lifts that work
 - T-loops - make sure they work!
 - Special rooms - on top of the talk & workshop rooms and cafeteria - multi-faith room; lactation room; quiet room; speakers' room; volunteers' room; work room; break-out spaces; overflow areas
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">shoutout to <a href="https://twitter.com/ConfabEvents?ref_src=twsrc%5Etfw">@ConfabEvents</a> for understanding how humans work <a href="https://twitter.com/hashtag/Confab2018?src=hash&amp;ref_src=twsrc%5Etfw">#Confab2018</a> 
+
+<img src="https://pbs.twimg.com/media/Dd6McA6VwAA63II.jpg" alt="Introvert Lounge & Extrovert Lounge - two rooms at Confab2018" >
+<a href="https://t.co/42jIs8eIUX">pic.twitter.com/42jIs8eIUX</a>
+
+</p>&mdash; Ada Powers (@mspowahs) <a href="https://twitter.com/mspowahs/status/999390594500890625?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 - de-gendered toilets - make sure you check with the venue managers first. Provide comfort baskets in all bathrooms.
 
 **Signage: allow people to help themselves**
@@ -139,10 +150,11 @@ Gosh, it's hard to put everything into prose, so here's the list from my notes; 
 **General organisation**
 - allow turn over times between sessions long enough so that the slowest user can get between the two furthest room and get in a bathroom break. 
 - offer back-of-the-house lunch for stall holders & volunteers so they are ready to look after the crowds
+- have different coloured lanyards to distinguish between happy to be photographed / ask before taking photo / don't take photos
 - live captioning is not just for hard of hearing! It helps to make sense of people's accents, and can act as a sanity check ("did they really just say that?!")
 - if possible, add a live captioning screen for the speaker to see - even if it's just so that they can see the questions better
 - offer buddy system between speakers, or independent mentors to help speakers to prepare
-- on the ticket page ask for things like crèche, dietary requirements, if they need carer support (and offer free or reduced fee carer tickets)
+- on the ticket page ask for things like crèche, dietary requirements, if they need carer support (and offer free or reduced fee carer tickets), preferred pronouns
 - have at least one dedicated volunteer to look after speakers
 - try to run a non-alcohol centric event (alcohol at the bottom of the menu)
 - make posters with food and drink menus and have them set up so people can see what's on offer before they need to order - put them on the website, if possible
@@ -153,7 +165,7 @@ The list is excellent and by no means exclusive. Every single person can probabl
 * if you have numbered tables and named seating, sure have one pretty list for display. However, please, please have many lists ordered by NAME alphabetically instead of the table number. Everyone knows roughtly where to find their name in the alphabetical list, so people find their name much quicker. It also avoids the anxiety of looking at the pretty list thinking "I can't see my name, why can't I see my name". 
 * if the dress code is not casual, please make it clear what it **is** and ideally provide a couple of photos to show what you mean. I suck at fashion but I don't want to stand out like a sore thumb.
 
-Last thing - Jenny's talk concentrated on conferences, but it does apply to **any** event. When my nesting partner and I got married, we threw a party at a local village hall. We had a quiet room (some guests were more sensitive to noise, and there were babies). We has alphabetical seating list. In the RSVP forms we asked everyone about their dietary requirements, if there are any relevant mobility issues we needed to know of, and if they would be able to provide lifts to and from the venue for those without cars. We had clear dress code ("We'll wear jeans and a nice shirt. If your child wants to dress up as a princess / fireman / astronaut, we're chill with that; we know how picky kids can be.")
+Last thing - Jenny's talk concentrated on conferences, but it does apply to **any** event. When my nesting partner and I got married, we threw a party at a local village hall. We had a quiet room (some guests were more sensitive to noise, and there were babies). We has alphabetical seating list. In the RSVP forms we asked everyone about their dietary requirements, if there are any relevant mobility issues we needed to know of, and if they would be able to provide lifts to and from the venue for those without cars. We had clear dress code ("We'll wear jeans and a nice shirt. If your child wants to dress up in a costume, we're chill with that; we know how picky kids can be.")
 
 ---
 ## "Back to the future of js: the next features and amazing proposals" [Willian Martins](https://twitter.com/wmsbill)
@@ -163,6 +175,36 @@ I'm not going to pretend I undestood all of the talk. It had nuances that went o
 One point that I **did** understand:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">JSNext: pipeline operator to replace chaining. Still work in progress, especially when it comes to handling `await`, but exciting nevertheless. <a href="https://twitter.com/wmsbill?ref_src=twsrc%5Etfw">@wmsbill</a> <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060910919616815106?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This pipeline operator will work the way terminal's `|` works and will replace dot-chaining. The proposed symbol for the pipe operator is `|>`. For those who are not familiar with `|`, it first does the action before the symbol, takes the result, and passes it in as a variable to the action after the symbol. 
+
+---
+## "Dear developer, the web isn't about you" [Charlie Owen](https://twitter.com/sonniesedge)
+Charlie provided not only slides, but made an article - [check it out!](https://www.sonniesedge.co.uk/talks/dear-developer)
+
+This is difficult subject to talk about and kudo's to Charlie for having not only a stab at it, but a really, really well executed stab! The gist of the talk was that we, as developers, have access to all sorts of exciting toys and tools - animations, React, JavaScript effects and logic. We also need to implement the things that our bosses want - the GDPR popup, the newsletter subscription popup, etc. But put together, all these things make our websites unwieldy for a huge number of users. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Super important point, often overlooked: many websites are heavy, and rely on content served by JavaScript. This is actually horribly exclusive for users with slow connection speeds (developing world, but also rural areas) and low-spec devices. <a href="https://twitter.com/sonniesedge?ref_src=twsrc%5Etfw">@sonniesedge</a> <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060918590323544065?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+
+As creators of content, we can't start with "I know this fancy technology, I'll use it in my website / app". We have responsibility to start with "Let's implement the content in the simplest fashion and go from there". You may be familiar with this The Oatmeal comic : [Restaurant Website](http://theoatmeal.com/comics/restaurant_website).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Simple solutions are the most robust ones. Get those working first. Only then add features, gradually, layer by layer, starting with basic CSS, and only adding JavaScript at the end. <a href="https://twitter.com/sonniesedge?ref_src=twsrc%5Etfw">@sonniesedge</a> <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060922218568474624?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+
+Charlie mentioned that her employer, Springer Nature, has come up  with ["Springer Nature Frontend Playbook"](https://github.com/springernature/frontend-playbook) that outlines the process of web and app development that shall be used across the organisation. 
+
+What is worth noting is that what is an edge case for the developer can be the main experience for the user. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Edge cases happen when people are stressed and need your app to just fucking work. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">People are not edge cases 🙌♥️ <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a></p>&mdash; Seren Davies (@ninjanails) <a href="https://twitter.com/ninjanails/status/1060921675544453120?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060922951950753793?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+
+I can't locate it now, but there was a tweet / image doing rounds of a boarding pass. The app (for whatever reason) didn't work. It reads something like this:
+<blockquote>
+This is your ticket for ${time} ${date} flight to ${location}.
+</blockquote>
+That's not exactly helpful, is it?
+
+Charlie had two images in her talk. The first one a pyramid with three components: HTML as the base part, CSS as the middle part, and JS as the tip part. This represents a well made website. The second image has the JS tip as the bottom most part and the two other components balanced precariously on top. This is what we should avoid, but inevitably end up doing. 
