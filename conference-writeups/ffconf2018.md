@@ -133,8 +133,6 @@ Gosh, it's hard to put everything into prose, so here's the list from my notes; 
 <a href="https://t.co/42jIs8eIUX">pic.twitter.com/42jIs8eIUX</a>
 
 </p>&mdash; Ada Powers (@mspowahs) <a href="https://twitter.com/mspowahs/status/999390594500890625?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 **Signage: allow people to help themselves**
 - bunting or other ceiling / wall decorations to show what areas are part of the conference
