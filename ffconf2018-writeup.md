@@ -4,6 +4,7 @@ Hello! This is my write-up of the FFConf2018. As with any conference, the videos
 
 ---
 ## "Mentoring: being the help you wish you'd had" [Jo Franchetti](https://twitter.com/ThisIsJoFrank)
+Check out [the slides](https://docs.google.com/presentation/d/12Nz165q_-x7d8-K6uy5p935JCIGekL1Q1IM8HWxents/edit#slide=id.g24ec50767a_0_12).
 
 Jo has put together a comprehensive talk about mentoring - what it can be, what it should be, and what it must not be. 
 
@@ -73,7 +74,81 @@ The main tool for this job is TensorFlow, which now exists in the form of a JS l
 There are a number of meetups in London on the subject. The two I know of are [TensorFlow](https://www.meetup.com/London-TensorFlow-Meetup/) and [AI JavaScript London](https://www.meetup.com/AI-JavaScript-London/)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I loved <a href="https://twitter.com/EleanorHaproff?ref_src=twsrc%5Etfw">@EleanorHaproff</a>’s talk at <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a> today about the future of Javascript and machine learning. I was looking up some more about tensors and found this gem. It has cats. <a href="https://t.co/LqC9uwz4Zv">https://t.co/LqC9uwz4Zv</a></p>&mdash; Cassie Evans (@cassiecodes) <a href="https://twitter.com/cassiecodes/status/1061001829549514752?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 ## "Practical web animation" [Lisi Linhart](https://twitter.com/lisi_linhart)
+You can [access the slides here](https://noti.st/lisi/whJN75/practical-web-animation).
+
+Unsurprisingly, web animations is another one of the subjects / skill-sets that look super cool, but I'm not sure where to start!
+
+Lisi's talk explained how animations can be done and what are the benefits of each approach. 
+
+**My main take-away point were:**
+
+Make animations for the benefit of the user, to help the user as much as possible within constraints of the browsers. Animations should be, first and foremost, helpful. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There are four types of animation a browser can do cheaply: translate, transform, rotate, opacity. <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a> <a href="https://twitter.com/lisi_linhart?ref_src=twsrc%5Etfw">@lisi_linhart</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060864052409307136?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Use layers to make items independent of each other, but remember each layer uses memory, so clean up layers when they are no longer needed</p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060864054749728768?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+
+---
+## "is it possible to build a truly diverse community?" [Jenny Wong](https://twitter.com/miss_jwo
+Check out the [slides](https://speakerdeck.com/missjwo/is-it-possible-to-build-a-truly-diverse-community)
+
+Oh, what a ride! Jenny's talk was full of excellent hints and tips when it comes to running an event and making sure all who attend have a good and stress-free time. I think the TL;DR in my tweet below sums it up quite well. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Aim for inclusivity, not for diversity when organising events. Ask yourself if a potential feature makes your event more - or less - inclusive. <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a> <a href="https://twitter.com/miss_jwo?ref_src=twsrc%5Etfw">@miss_jwo</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060882349938954240?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+
+You might wonder what the difference is. Well, as far as I understand it, you can't have diverstity without ensuring that everyone feels welcome and is able to enjoy the conference. This includes people who have a bad day, are not neurotypical, have disabilities, are or need carers, or are parents - this is by no means a full list. There are things you can do which are free that makes a big difference, such as making sure that your content is worded in a friendly tone of voice and is gender neutral. Make sure you proof-read your materials. Other things, such as childcare, can cost signigicant amounts of money. But by offering that, you enable parents to attend. 
+
+It does help if you have a motely organising committee - if everyone aims to show what they'd like to see, hopefully your event will become more inclusive for everyone. Not everything is easy. Some things depend on the venue, and sometimes there aren't that many options, so one needs to ops out for the lesser evil. 
+
+Gosh, it's hard to put everything into prose, so here's the list from my notes; nota bene, many more points are covered by slides.
+
+**Written content**
+- gender neutral
+- right tone of voice
+- proof read
+
+**Child care**
+- find professionals!
+- vet them
+- meet in person
+- build trust - using the same crèche team every year means parents of prospective users can see the team in action 
+
+**venue**
+- wheelchair friendly - wide aisles, lifts that work
+- T-loops - make sure they work!
+- Special rooms - on top of the talk & workshop rooms and cafeteria - multi-faith room; lactation room; quiet room; speakers' room; volunteers' room; work room; break-out spaces; overflow areas
+- de-gendered toilets - make sure you check with the venue managers first. Provide comfort baskets in all bathrooms.
+
+**Signage: allow people to help themselves**
+- bunting or other ceiling / wall decor to show what areas are part of the conference
+- more signs than you think
+- bigger signs than you think
+- reading friendly font
+- BRANDED signs
+- put signs above head height (so that even shorter people can see and read them)
+- putting up signs takes more time than you realise
+- have plenty of blank branded signs and a fat-tip marker to make signs as needed
+- volunteer T-shirts / sashes / something that makes them easily distinguishable as volunteers
+
+**General organisation**
+- allow turn over times between sessions long enough so that the slowest user can get between the two furthest room and get in a bathroom break. 
+- offer back-of-the-house lunch for stall holders & volunteers so they are ready to look after the crowds
+- live captioning is not just for hard of hearing! It helps to make sense of people's accents, and can act as a sanity check ("did they really just say that?!")
+- if possible, add a live captioning screen for the speaker to see - even if it's just so that they can see the questions better
+- offer buddy system between speakers, or independent mentors to help speakers to prepare
+- on the ticket page ask for things like crèche, dietary requirements, if they need carer support (and offer free or reduced fee carer tickets)
+- have at least one dedicated volunteer to look after speakers
+- try to run a non-alcohol centric event (alcohol at the bottom of the menu)
+- make posters with food and drink menus and have them set up so people can see what's on offer before they need to order - put them on the website, if possible
+- provide information about budget breakdown - either in booklets, or on-line. 
+- Ask for help if you need it. Monetary or otherwise
+
+The list is excellent and by no means exclusive. Every single person can probably think of something that would make that event they attended recently a bit better. My personal additions to the list: 
+* if you have numbered tables and named seating, sure have one pretty list for display. However, please, please have many lists ordered by NAME alphabetically instead of the table number. Everyone knows roughtly where to find their name in the alphabetical list, so people find their name much quicker. It also avoids the anxiety of looking at the pretty list thinking "I can't see my name, why can't I see my name". 
+* if the dress code is not casual, please make it clear what it **is** and ideally provide a couple of photos to show what you mean. I suck at fashion but I don't want to stand out like a sore thumb.
+
+Last thing - Jenny's talk concentrated on conferences, but it does apply to **any** event. When my nesting partner and I got married, we threw a party at a local village hall. We had a quiet room (some guests were more sensitive to noise, and there were babies). We has alphabetical seating list. In the RSVP forms we asked everyone about their dietary requirements, if there are any relevant mobility issues we needed to know of, and if they would be able to provide lifts to and from the venue for those without cars. We had clear dress code ("We'll wear jeans and a nice shirt. If your child wants to dress up as a princess / fireman / astronaut, we're chill with that; we know how picky kids can be.")
+
