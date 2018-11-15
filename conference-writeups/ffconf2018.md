@@ -234,7 +234,7 @@ Main take-away from Tim's talk:
 
 ---
 ## Note on mental health
-I decided, whereever possible, to end my talks / write-ups with this note. Mental health is important. Depression and anxiety are real. They can suck out the joy of living out of you. There are many other mental health issues, but those are the two that affected me, so I talk about just those two. 
+I decided, wherever possible, to end my talks / write-ups with this note. Mental health is important. Depression and anxiety are real. They can suck out the joy of living out of you. There are many other mental health issues, but those are the two that affected me, so I talk about just those two. 
 
 Depression has many symptoms. Many say they lose interest in doing thing they previously loved doing. Getting out of bed can be difficult, standing in the shower might take up all the energy you have for the day. I found that I was always tired; stuck in first gear so to speak. 
 
