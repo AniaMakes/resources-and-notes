@@ -122,6 +122,7 @@ Gosh, it's hard to put everything into prose, so here's the list from my notes; 
 **venue**
 - wheelchair friendly - wide aisles, lifts that work
 - T-loops - make sure they work!
+- de-gendered toilets - make sure you check with the venue managers first. Provide comfort baskets in all bathrooms.
 - Special rooms - on top of the talk & workshop rooms and cafeteria - multi-faith room; lactation room; quiet room; speakers' room; volunteers' room; work room; break-out spaces; overflow areas
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">shoutout to <a href="https://twitter.com/ConfabEvents?ref_src=twsrc%5Etfw">@ConfabEvents</a> for understanding how humans work <a href="https://twitter.com/hashtag/Confab2018?src=hash&amp;ref_src=twsrc%5Etfw">#Confab2018</a> 
@@ -135,36 +136,33 @@ Gosh, it's hard to put everything into prose, so here's the list from my notes; 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
-- de-gendered toilets - make sure you check with the venue managers first. Provide comfort baskets in all bathrooms.
-
 **Signage: allow people to help themselves**
-- bunting or other ceiling / wall decor to show what areas are part of the conference
+- bunting or other ceiling / wall decorations to show what areas are part of the conference
 - more signs than you think
 - bigger signs than you think
 - reading friendly font
 - BRANDED signs
 - put signs above head height (so that even shorter people can see and read them)
 - putting up signs takes more time than you realise
-- have plenty of blank branded signs and a fat-tip marker to make signs as needed
+- have plenty of blank branded sheets and a fat-tip marker to make signs as needed
 - volunteer T-shirts / sashes / something that makes them easily distinguishable as volunteers
 
 **General organisation**
-- allow turn over times between sessions long enough so that the slowest user can get between the two furthest room and get in a bathroom break. 
-- offer back-of-the-house lunch for stall holders & volunteers so they are ready to look after the crowds
+- allow turn-over times between sessions long enough so that the slowest user can get between the two furthest room and get in a bathroom break without needing to rush. 
+- offer back-of-the-house lunch (before the attendee lunch) for stall holders & volunteers so they are ready to look after the crowds
 - have different coloured lanyards to distinguish between happy to be photographed / ask before taking photo / don't take photos
 - live captioning is not just for hard of hearing! It helps to make sense of people's accents, and can act as a sanity check ("did they really just say that?!")
-- if possible, add a live captioning screen for the speaker to see - even if it's just so that they can see the questions better
-- offer buddy system between speakers, or independent mentors to help speakers to prepare
-- on the ticket page ask for things like crèche, dietary requirements, if they need carer support (and offer free or reduced fee carer tickets), preferred pronouns
+- if possible, add a live captioning screen for the speaker to see - even if it's just so that they can see the questions asked
+- offer buddy system between speakers, or independent mentors, to help speakers to prepare
+- on the ticket page ask for things like: crèche needs, dietary requirements, if they need carer support (and offer free or reduced fee carer tickets), preferred pronouns
 - have at least one dedicated volunteer to look after speakers
 - try to run a non-alcohol centric event (alcohol at the bottom of the menu)
 - make posters with food and drink menus and have them set up so people can see what's on offer before they need to order - put them on the website, if possible
 - provide information about budget breakdown - either in booklets, or on-line. 
-- Ask for help if you need it. Monetary or otherwise
+- ask for help if you need it. Monetary or otherwise
 
 The list is excellent and by no means exclusive. Every single person can probably think of something that would make that event they attended recently a bit better. My personal additions to the list: 
-* if you have numbered tables and named seating, sure have one pretty list for display. However, please, please have many lists ordered by NAME alphabetically instead of the table number. Everyone knows roughtly where to find their name in the alphabetical list, so people find their name much quicker. It also avoids the anxiety of looking at the pretty list thinking "I can't see my name, why can't I see my name". 
+* if you have numbered tables and named seating, sure have one pretty list to display. However, please, please have many lists available ordered by NAME alphabetically instead of the table number. Everyone knows roughtly where to find their name in the alphabetical list, so people find their name much quicker. It also avoids the anxiety of looking at the pretty list thinking "I can't see my name, why can't I see my name...". 
 * if the dress code is not casual, please make it clear what it **is** and ideally provide a couple of photos to show what you mean. I suck at fashion but I don't want to stand out like a sore thumb.
 
 Last thing - Jenny's talk concentrated on conferences, but it does apply to **any** event. When my nesting partner and I got married, we threw a party at a local village hall. We had a quiet room (some guests were more sensitive to noise, and there were babies). We has alphabetical seating list. In the RSVP forms we asked everyone about their dietary requirements, if there are any relevant mobility issues we needed to know of, and if they would be able to provide lifts to and from the venue for those without cars. We had clear dress code ("We'll wear jeans and a nice shirt. If your child wants to dress up in a costume, we're chill with that; we know how picky kids can be.")
@@ -199,7 +197,6 @@ What is worth noting is that what is an edge case for the developer can be the m
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Edge cases happen when people are stressed and need your app to just fucking work. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">People are not edge cases 🙌♥️ <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a></p>&mdash; Seren Davies (@ninjanails) <a href="https://twitter.com/ninjanails/status/1060921675544453120?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060922951950753793?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
 
@@ -209,4 +206,46 @@ This is your ticket for ${time} ${date} flight to ${location}.
 </blockquote>
 That's not exactly helpful, is it?
 
-Charlie had two images in her talk. The first one a pyramid with three components: HTML as the base part, CSS as the middle part, and JS as the tip part. This represents a well made website. The second image has the JS tip as the bottom most part and the two other components balanced precariously on top. This is what we should avoid, but inevitably end up doing. 
+Charlie had two images in her talk. The first one a pyramid with three components: HTML as the base part, CSS as the middle part, and JS as the tip part. This represents a well made website. The second image has the JS tip as the bottom most part and the two other components balanced precariously on top. This is what devs should avoid, but inevitably end up doing. 
+
+Be a good dev. Use JavaScript as icing in the cake. Cake should still be cake without the icing. Too much icing makes the cake way too sweet and actually not that tasty. If you want to add icing, don't over-do it. 
+
+---
+## "Using a modern web to recreate 1980s horribly slow & loud loading screens" [Remy Sharp](https://twitter.com/rem)
+
+Kudos to Remy for stepping in when the original speaker needed to withdraw!
+
+This wasn't really a talk, more like a demo of the "look at the cool stuff I can do with JavaScript just because I want to" flavour. And it's definitely worth watching in person - I first watched it as a video from JSConf-EU-2018 and I didn't find it super exciting, but in watching it being delivered sitting in the same room was so much fun! 
+
+Content wise - the name says it all!
+
+---
+## "Weird web & curious creation" [Tim Holman](https://twitter.com/twholman)
+
+Half talk, half demo, also of the "look at the cool stuff I can do with JavaScript just because I want to" flavour. 
+
+Tim has shown the audience a number of things he built just because he had an idea and wanted to make it happen. Those things include:
+* [console.frog](http://tholman.com/console-dot-frog/) - why have a boring console.log when you can have a frog ASCII art with a speech bubble?
+* [obnoxious.css](http://tholman.com/post/obnoxious-css/) - you probably encountered animate.css. Obnoxious.css is, well, significantly more obnoxious. 
+* [elevator.js](http://tholman.com/post/elevator-js/) - now your "take me to the top" action is accompanied with lovely muzak sounds, just like in a real elevator! Including a lovely bell sound when you reach the top.
+* You know that DVD screensaver of the DVD logo bouncing from screen edge to screen edge? Tim made a version where the logo is much more likely to hit a corner! 
+* [Buddy](https://github.com/tholman/buddy) - a Chrome plugin that follows the user as they surf the web. Follow the link to watch the demo, but as a sneak preview a warning: Buddy can Rick-Roll you!
+
+Main take-away from Tim's talk:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Everything you do will provide value. Each project, no matter how big or small, will teach you new things. <a href="https://twitter.com/twholman?ref_src=twsrc%5Etfw">@twholman</a> <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060950270333595649?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+
+---
+## Note on mental health
+I decided, whereever possible, to end my talks / write-ups with this note. Mental health is important. Depression and anxiety are real. They can suck out the joy of living out of you. There are many other mental health issues, but those are the two that affected me, so I talk about just those two. 
+
+Depression has many symptoms. Many say they lose interest in doing thing they previously loved doing. Getting out of bed can be difficult, standing in the shower might take up all the energy you have for the day. I found that I was always tired; stuck in first gear so to speak. 
+
+Anxiety can be debilitating. It stops you doing stuff you love for irrational reasons. I toyed with the idea of moving away from the town I was living in (and where I had all my support network) to pursue an MSc. Just the idea of the possibility of a chance of moving away triggered an hour long sobbing/crying episode. 
+
+Meds helped. Many mental health issues are simply chemical imbalances in the brain. "Meds are unnatural" approach is bullshit; if you had diabetes, you would not refuse insulin because "it's unnatural". Meds are there to compensate where your body falls short. Your mileage may vary, different meds will have different effect; if an average day was 4/10, Sertraline (first SSRI I tried, stayed on for about 6 months) made it 6/10 and Citalopram (second one, that I stayed on for better part of 2 years) made it 9.5/10 for me. 
+
+I'm no longer on meds. Circumstances in my life changed, I was able to scale back and stop completely. I still sometimes have bad days. I conside myself a [spoonie](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/). I often flop on the sofa at the end of the day unable to do much more than browse the internet aimlessly. 
+
+If you are struggling, don't be afraid to talk. Not everyone might be able to empathise. You might be surprised how many other people face the same difficulties. There are counselling services on-line that you can access for a reasonable price. If you can, talk to your doctor. Figure out what works for you. 
+
+Be honest with yourself; admitting something isn’t right is the hardest step in making it right. 
