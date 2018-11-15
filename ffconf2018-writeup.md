@@ -125,9 +125,10 @@ Gosh, it's hard to put everything into prose, so here's the list from my notes; 
 - Special rooms - on top of the talk & workshop rooms and cafeteria - multi-faith room; lactation room; quiet room; speakers' room; volunteers' room; work room; break-out spaces; overflow areas
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">shoutout to <a href="https://twitter.com/ConfabEvents?ref_src=twsrc%5Etfw">@ConfabEvents</a> for understanding how humans work <a href="https://twitter.com/hashtag/Confab2018?src=hash&amp;ref_src=twsrc%5Etfw">#Confab2018</a> 
-
+<p>
 <img src="https://pbs.twimg.com/media/Dd6MZ_AVMAEZ80U.jpg" alt="Extrovert Lounge sign at Confab2018" height="300px">
 <img src="https://pbs.twimg.com/media/Dd6McA6VwAA63II.jpg" alt="Introvert Lounge sign at Confab2018" height="300px">
+<p>
 <a href="https://t.co/42jIs8eIUX">pic.twitter.com/42jIs8eIUX</a>
 
 </p>&mdash; Ada Powers (@mspowahs) <a href="https://twitter.com/mspowahs/status/999390594500890625?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
