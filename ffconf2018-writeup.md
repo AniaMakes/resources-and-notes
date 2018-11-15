@@ -1,6 +1,8 @@
 # FFConf - Brighton - 9 Nov 2018
 
-Hello! This is my write-up of the FFConf2018. As with any conference, the videos will eventually be available on-line to listen in detail. The points made here are collated from my notes and my tweets from the day.
+Hello! This is my write-up of the FFConf2018. As with any conference, the videos will eventually be available on-line to listen in detail. The points made here are collated from my notes and my tweets from the day. As with any conference, there are subjects that I made more notes on that the others, but that's not to say that note-worthy talks were better. It just means that there were specific issues I'm more likely to take notes on, and some talks had demos - and it's kinda hard to make notes on those!
+
+The conference was fabulous: the talks were well curated; the crowd was friendly and I felt like I really belonged; the crowd felt like a giant family rather than just a bunch of bodies attending a conference; it had newcomers to tech, and those who have been around for years; I met people who knew and met people who I'd like to meet again; the after party had board games to help with socialising... Let's just say I already have tickets for next year's edition. It's that good. Totally worth the last minute arrangemnts (bought Friday ticket on Wednesday). Worth it if you're a 2-3 hour flight away. And just-about worth it to fly in from another continent, in my opinion. 
 
 ---
 ## "Mentoring: being the help you wish you'd had" [Jo Franchetti](https://twitter.com/ThisIsJoFrank)
@@ -47,6 +49,7 @@ BONUS: a few tweets on the subject from Extreme Tuesdays meetup:
 
 <a href="https://t.co/M4nqs3Lz5S">pic.twitter.com/M4nqs3Lz5S</a></p>&mdash; Jeffrey Fredrick (@Jtf) <a href="https://twitter.com/Jtf/status/981239399320031233?ref_src=twsrc%5Etfw">April 3, 2018</a></blockquote>
 
+NB; the image in the tweet below has been uploaded sideways, so I can't do much about its orientation.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Awesome thoughts generated at <a href="https://twitter.com/extremetuesday?ref_src=twsrc%5Etfw">@extremetuesday</a>
 
 <img src="https://pbs.twimg.com/media/DZ5DyqRXUAALuQ-.jpg" alt="Mentoring mind map" style="transform:rotate(270deg);" width="500px" >
@@ -92,7 +95,7 @@ Make animations for the benefit of the user, to help the user as much as possibl
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Use layers to make items independent of each other, but remember each layer uses memory, so clean up layers when they are no longer needed</p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060864054749728768?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
 
 ---
-## "is it possible to build a truly diverse community?" [Jenny Wong](https://twitter.com/miss_jwo
+## "Is it possible to build a truly diverse community?" [Jenny Wong](https://twitter.com/miss_jwo)
 Check out the [slides](https://speakerdeck.com/missjwo/is-it-possible-to-build-a-truly-diverse-community)
 
 Oh, what a ride! Jenny's talk was full of excellent hints and tips when it comes to running an event and making sure all who attend have a good and stress-free time. I think the TL;DR in my tweet below sums it up quite well. 
@@ -152,3 +155,14 @@ The list is excellent and by no means exclusive. Every single person can probabl
 
 Last thing - Jenny's talk concentrated on conferences, but it does apply to **any** event. When my nesting partner and I got married, we threw a party at a local village hall. We had a quiet room (some guests were more sensitive to noise, and there were babies). We has alphabetical seating list. In the RSVP forms we asked everyone about their dietary requirements, if there are any relevant mobility issues we needed to know of, and if they would be able to provide lifts to and from the venue for those without cars. We had clear dress code ("We'll wear jeans and a nice shirt. If your child wants to dress up as a princess / fireman / astronaut, we're chill with that; we know how picky kids can be.")
 
+---
+## "Back to the future of js: the next features and amazing proposals" [Willian Martins](https://twitter.com/wmsbill)
+
+I'm not going to pretend I undestood all of the talk. It had nuances that went over my head. There was talk about `this` and binding features. There were a fair few mentions of currying; I somehow doubt it has anything to do with Indian food. 
+
+One point that I **did** understand:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">JSNext: pipeline operator to replace chaining. Still work in progress, especially when it comes to handling `await`, but exciting nevertheless. <a href="https://twitter.com/wmsbill?ref_src=twsrc%5Etfw">@wmsbill</a> <a href="https://twitter.com/hashtag/ffconf?src=hash&amp;ref_src=twsrc%5Etfw">#ffconf</a></p>&mdash; Ania (@AniaMakes) <a href="https://twitter.com/AniaMakes/status/1060910919616815106?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This pipeline operator will work the way terminal's `|` works and will replace dot-chaining. The proposed symbol for the pipe operator is `|>`. For those who are not familiar with `|`, it first does the action before the symbol, takes the result, and passes it in as a variable to the action after the symbol. 
