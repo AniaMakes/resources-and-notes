@@ -17,6 +17,13 @@ https://github.com/FernandoMiguel/aws-vault-quick-guide
 ### If using many profiles with MFA
 Make sure each profile has the `mfa_serial` line
 
+### Adding new profiles
+1. In the `congig` file, add `[{profile name}]`.
+2. In the terminal run `aws-vault --backend=file add {profile name}`
+3. Add profile credentials as prompted inthe terminal
+
+## Commands
+
 ### List active sessions
 `aws-vault --backend=file list`
 
