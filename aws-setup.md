@@ -18,7 +18,7 @@ https://github.com/FernandoMiguel/aws-vault-quick-guide
 Make sure each profile has the `mfa_serial` line
 
 ### Adding new profiles
-1. In the `congig` file, add `[{profile name}]`.
+1. In the `config` file, add `[{profile name}]`.
 2. In the terminal run `aws-vault --backend=file add {profile name}`
 3. Add profile credentials as prompted inthe terminal
 
@@ -36,3 +36,5 @@ Make sure each profile has the `mfa_serial` line
 ### Random AWS command
 `aws-vault --backend=file exec {profile-name}  -- aws ec2 describe-instances
 `
+### If using aws-sdk 
+aws-sdk will pick up on credentials from ~/.aws/credentials, so use `export AWS_PROFILE='{profile-name}'
