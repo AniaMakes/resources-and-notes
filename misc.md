@@ -28,3 +28,6 @@ console.log(JSON.stringify({object}, null, 2))
 ```
 npm ci
 ```
+
+## SEO tools (Search Engine Optimisation)
+[Neil Patel SEO checker](https://neilpatel.com/)
