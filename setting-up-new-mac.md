@@ -5,10 +5,13 @@
 - npm
 - code editor of choice (and any extensions you like)
 
-## Dev tools
+## Dev tools (as needed)
 - nvm
-- git GUI manager
+- git GUI manager (GitHub Desktop)
 - vault
+- insomnia
+- postman
+- charles (call interceptor / investigator)
 
 ### Git autocompletion in bash
 `curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash`
@@ -25,4 +28,6 @@ from [StackExchange](https://apple.stackexchange.com/questions/55875/git-auto-co
 `sudo chown $USER /usr/local/*`
 
 ## Quality of life
-- window snapping software
+- window snapping software (Magnet)
+- Spotify
+- VLC
